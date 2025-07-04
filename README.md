@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://files.catbox.moe/7qyorb.jpg">
+  <img src="https://files.catbox.moe/tcz7s6.jpg">
 </p>
 
 
