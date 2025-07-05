@@ -5,7 +5,7 @@ from pyrogram.enums import ChatType
 
 import config
 from NOBITA_MUSIC import app
-from NOBIYA_MUSIC.core.call import NOBITA, autoend
+from NOBITA_MUSIC.core.call import NOBITA, autoend
 from NOBITA_MUSIC.utils.database import get_client, is_active_chat, is_autoend
 
 
