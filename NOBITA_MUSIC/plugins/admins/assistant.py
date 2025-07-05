@@ -1,5 +1,5 @@
 import asyncio
-from NOBITQ_MUSIC.misc import SUDOERS
+from NOBITA_MUSIC.misc import SUDOERS
 from pyrogram import filters
 from NOBITA_MUSIC import app
 import asyncio
